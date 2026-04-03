@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+chromadb
+sentence-transformers
+pypdf
+streamlit
+python-dotenv
+openai
+dotenv
+langchain_openai
+httpx
+langchain-chroma
+langchain-community
+python-dotenv 
